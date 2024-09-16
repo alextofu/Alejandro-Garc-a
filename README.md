@@ -1,2 +1,2 @@
-# Alejandro-Garc-a
+# Alejandro-Garcia
 Conoceme
