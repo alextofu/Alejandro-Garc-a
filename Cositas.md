@@ -10,6 +10,8 @@ Me gustán los videojuegos competitivos, pero también puedoo disfrutar de una r
 Soy un apasionado de la informatica, pero siempre he tenido otros intereses artisiticos los cuales desarrollo con hobbies.
 En general disfruto de aprender cosas nuevas y más cuando tienen relación con las cosas que me gustan.
 
+>Las chapas no siempre son buenas chapas — I Garrido
+
 ### Profesionales
 Actualmente estudio un grado superio de **ASIR**, el cual lo acompaño trabajando como salesman en *Hidrotermal* vendiendo
 equipamiento para el mantenimiento de piscinas a distribuidores.
