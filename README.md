@@ -4,7 +4,7 @@ Conoceme
 ## Gustos y Avances
 ### Personales
 Me gustán los videojuegos competitivos, pero también puedoo disfrutar de una run de *Dark Souls* de vez en cuando.
-!(C:\Users\agpmo\Downloads\U-TAD\plinplon.jpg)
+![PlinPlon](C:\Users\agpmo\Downloads\U-TAD\plinplon.jpg)
 
 Soy un apasionado de la informatica, pero siempre he tenido otros intereses artisiticos los cuales desarrollo con hobbies.
 En general disfruto de aprender cosas nuevas y más cuando tienen relación con las cosas que me gustan.
