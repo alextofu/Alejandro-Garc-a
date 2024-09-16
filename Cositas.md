@@ -15,7 +15,7 @@ En general disfruto de aprender cosas nuevas y más cuando tienen relación con 
 ### Profesionales
 Actualmente estudio un grado superio de **ASIR**, el cual lo acompaño trabajando como salesman en *Hidrotermal* vendiendo
 equipamiento para el mantenimiento de piscinas a distribuidores.
-Se escribir con distintos lenguajes como <img src="https://imgs.search.brave.com/-A7DMn2sD4NJtodxwkO-SQM6qd5-pMzItJulgw-SvIQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9odG1sLTEuc3Zn" width=20 > 
+Se escribir con distintos lenguajes como HTML<img src="https://imgs.search.brave.com/-A7DMn2sD4NJtodxwkO-SQM6qd5-pMzItJulgw-SvIQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9odG1sLTEuc3Zn" width=20 > 
 
 He trabajado en un desarrollo básico de páginas web para *Todoemblemas* en 2021, y por lo general he tomado cualquier oportunidad 
 de aprendizaje que he podido a lo largo de mi camino.
